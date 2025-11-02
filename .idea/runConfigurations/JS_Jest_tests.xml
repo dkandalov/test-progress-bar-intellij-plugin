@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JS Jest tests" type="JavaScriptTestRunnerJest">
+    <node-interpreter value="project" />
+    <jest-package value="$PROJECT_DIR$/js-tests/node_modules/jest" />
+    <working-dir value="$PROJECT_DIR$/js-tests" />
+    <envs />
+    <scope-kind value="TEST_FILE" />
+    <test-file value="$PROJECT_DIR$/js-tests/tests/dummy.test.js" />
+    <method v="2" />
+  </configuration>
+</component>
