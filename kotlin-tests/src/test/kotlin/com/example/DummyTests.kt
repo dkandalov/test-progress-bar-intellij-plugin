@@ -4,104 +4,109 @@ import kotlin.test.Test
 import kotlin.test.assertEquals
 
 class DummyTests {
-    @Test fun test1() { assertEquals(1, 1) }
-    @Test fun test2() { assertEquals(1, 1) }
-    @Test fun test3() { assertEquals(1, 1) }
-    @Test fun test4() { assertEquals(1, 1) }
-    @Test fun test5() { assertEquals(1, 1) }
-    @Test fun test6() { assertEquals(1, 1) }
-    @Test fun test7() { assertEquals(1, 1) }
-    @Test fun test8() { assertEquals(1, 1) }
-    @Test fun test9() { assertEquals(1, 1) }
-    @Test fun test10() { assertEquals(1, 1) }
-    @Test fun test11() { assertEquals(1, 1) }
-    @Test fun test12() { assertEquals(1, 1) }
-    @Test fun test13() { assertEquals(1, 1) }
-    @Test fun test14() { assertEquals(1, 1) }
-    @Test fun test15() { assertEquals(1, 1) }
-    @Test fun test16() { assertEquals(1, 1) }
-    @Test fun test17() { assertEquals(1, 1) }
-    @Test fun test18() { assertEquals(1, 1) }
-    @Test fun test19() { assertEquals(1, 1) }
-    @Test fun test20() { assertEquals(1, 1) }
-    @Test fun test21() { assertEquals(1, 1) }
-    @Test fun test22() { assertEquals(1, 1) }
-    @Test fun test23() { assertEquals(1, 1) }
-    @Test fun test24() { assertEquals(1, 1) }
-    @Test fun test25() { assertEquals(1, 1) }
-    @Test fun test26() { assertEquals(1, 1) }
-    @Test fun test27() { assertEquals(1, 1) }
-    @Test fun test28() { assertEquals(1, 1) }
-    @Test fun test29() { assertEquals(1, 1) }
-    @Test fun test30() { assertEquals(1, 1) }
-    @Test fun test31() { assertEquals(1, 1) }
-    @Test fun test32() { assertEquals(1, 1) }
-    @Test fun test33() { assertEquals(1, 1) }
-    @Test fun test34() { assertEquals(1, 1) }
-    @Test fun test35() { assertEquals(1, 1) }
-    @Test fun test36() { assertEquals(1, 1) }
-    @Test fun test37() { assertEquals(1, 1) }
-    @Test fun test38() { assertEquals(1, 1) }
-    @Test fun test39() { assertEquals(1, 1) }
-    @Test fun test40() { assertEquals(1, 1) }
-    @Test fun test41() { assertEquals(1, 1) }
-    @Test fun test42() { assertEquals(1, 1) }
-    @Test fun test43() { assertEquals(1, 1) }
-    @Test fun test44() { assertEquals(1, 1) }
-    @Test fun test45() { assertEquals(1, 1) }
-    @Test fun test46() { assertEquals(1, 1) }
-    @Test fun test47() { assertEquals(1, 1) }
-    @Test fun test48() { assertEquals(1, 1) }
-    @Test fun test49() { assertEquals(1, 1) }
-    @Test fun test50() { assertEquals(1, 1) }
-    @Test fun test51() { assertEquals(1, 1) }
-    @Test fun test52() { assertEquals(1, 1) }
-    @Test fun test53() { assertEquals(1, 1) }
-    @Test fun test54() { assertEquals(1, 1) }
-    @Test fun test55() { assertEquals(1, 1) }
-    @Test fun test56() { assertEquals(1, 1) }
-    @Test fun test57() { assertEquals(1, 1) }
-    @Test fun test58() { assertEquals(1, 1) }
-    @Test fun test59() { assertEquals(1, 1) }
-    @Test fun test60() { assertEquals(1, 1) }
-    @Test fun test61() { assertEquals(1, 1) }
-    @Test fun test62() { assertEquals(1, 1) }
-    @Test fun test63() { assertEquals(1, 1) }
-    @Test fun test64() { assertEquals(1, 1) }
-    @Test fun test65() { assertEquals(1, 1) }
-    @Test fun test66() { assertEquals(1, 1) }
-    @Test fun test67() { assertEquals(1, 1) }
-    @Test fun test68() { assertEquals(1, 1) }
-    @Test fun test69() { assertEquals(1, 1) }
-    @Test fun test70() { assertEquals(1, 1) }
-    @Test fun test71() { assertEquals(1, 1) }
-    @Test fun test72() { assertEquals(1, 1) }
-    @Test fun test73() { assertEquals(1, 1) }
-    @Test fun test74() { assertEquals(1, 1) }
-    @Test fun test75() { assertEquals(1, 1) }
-    @Test fun test76() { assertEquals(1, 1) }
-    @Test fun test77() { assertEquals(1, 1) }
-    @Test fun test78() { assertEquals(1, 1) }
-    @Test fun test79() { assertEquals(1, 1) }
-    @Test fun test80() { assertEquals(1, 1) }
-    @Test fun test81() { assertEquals(1, 1) }
-    @Test fun test82() { assertEquals(1, 1) }
-    @Test fun test83() { assertEquals(1, 1) }
-    @Test fun test84() { assertEquals(1, 1) }
-    @Test fun test85() { assertEquals(1, 1) }
-    @Test fun test86() { assertEquals(1, 1) }
-    @Test fun test87() { assertEquals(1, 1) }
-    @Test fun test88() { assertEquals(1, 1) }
-    @Test fun test89() { assertEquals(1, 1) }
-    @Test fun test90() { assertEquals(1, 1) }
-    @Test fun test91() { assertEquals(1, 1) }
-    @Test fun test92() { assertEquals(1, 1) }
-    @Test fun test93() { assertEquals(1, 1) }
-    @Test fun test94() { assertEquals(1, 1) }
-    @Test fun test95() { assertEquals(1, 1) }
-    @Test fun test96() { assertEquals(1, 1) }
-    @Test fun test97() { assertEquals(1, 1) }
-    @Test fun test98() { assertEquals(1, 1) }
-    @Test fun test99() { assertEquals(1, 1) }
-    @Test fun test100() { assertEquals(1, 1) }
+    @Test fun test1() = someAssertion()
+    @Test fun test2() = someAssertion()
+    @Test fun test3() = someAssertion()
+    @Test fun test4() = someAssertion()
+    @Test fun test5() = someAssertion()
+    @Test fun test6() = someAssertion()
+    @Test fun test7() = someAssertion()
+    @Test fun test8() = someAssertion()
+    @Test fun test9() = someAssertion()
+    @Test fun test10() = someAssertion()
+    @Test fun test11() = someAssertion()
+    @Test fun test12() = someAssertion()
+    @Test fun test13() = someAssertion()
+    @Test fun test14() = someAssertion()
+    @Test fun test15() = someAssertion()
+    @Test fun test16() = someAssertion()
+    @Test fun test17() = someAssertion()
+    @Test fun test18() = someAssertion()
+    @Test fun test19() = someAssertion()
+    @Test fun test20() = someAssertion()
+    @Test fun test21() = someAssertion()
+    @Test fun test22() = someAssertion()
+    @Test fun test23() = someAssertion()
+    @Test fun test24() = someAssertion()
+    @Test fun test25() = someAssertion()
+    @Test fun test26() = someAssertion()
+    @Test fun test27() = someAssertion()
+    @Test fun test28() = someAssertion()
+    @Test fun test29() = someAssertion()
+    @Test fun test30() = someAssertion()
+    @Test fun test31() = someAssertion()
+    @Test fun test32() = someAssertion()
+    @Test fun test33() = someAssertion()
+    @Test fun test34() = someAssertion()
+    @Test fun test35() = someAssertion()
+    @Test fun test36() = someAssertion()
+    @Test fun test37() = someAssertion()
+    @Test fun test38() = someAssertion()
+    @Test fun test39() = someAssertion()
+    @Test fun test40() = someAssertion()
+    @Test fun test41() = someAssertion()
+    @Test fun test42() = someAssertion()
+    @Test fun test43() = someAssertion()
+    @Test fun test44() = someAssertion()
+    @Test fun test45() = someAssertion()
+    @Test fun test46() = someAssertion()
+    @Test fun test47() = someAssertion()
+    @Test fun test48() = someAssertion()
+    @Test fun test49() = someAssertion()
+    @Test fun test50() = someAssertion()
+    @Test fun test51() = someAssertion()
+    @Test fun test52() = someAssertion()
+    @Test fun test53() = someAssertion()
+    @Test fun test54() = someAssertion()
+    @Test fun test55() = someAssertion()
+    @Test fun test56() = someAssertion()
+    @Test fun test57() = someAssertion()
+    @Test fun test58() = someAssertion()
+    @Test fun test59() = someAssertion()
+    @Test fun test60() = someAssertion()
+    @Test fun test61() = someAssertion()
+    @Test fun test62() = someAssertion()
+    @Test fun test63() = someAssertion()
+    @Test fun test64() = someAssertion()
+    @Test fun test65() = someAssertion()
+    @Test fun test66() = someAssertion()
+    @Test fun test67() = someAssertion()
+    @Test fun test68() = someAssertion()
+    @Test fun test69() = someAssertion()
+    @Test fun test70() = someAssertion()
+    @Test fun test71() = someAssertion()
+    @Test fun test72() = someAssertion()
+    @Test fun test73() = someAssertion()
+    @Test fun test74() = someAssertion()
+    @Test fun test75() = someAssertion()
+    @Test fun test76() = someAssertion()
+    @Test fun test77() = someAssertion()
+    @Test fun test78() = someAssertion()
+    @Test fun test79() = someAssertion()
+    @Test fun test80() = someAssertion()
+    @Test fun test81() = someAssertion()
+    @Test fun test82() = someAssertion()
+    @Test fun test83() = someAssertion()
+    @Test fun test84() = someAssertion()
+    @Test fun test85() = someAssertion()
+    @Test fun test86() = someAssertion()
+    @Test fun test87() = someAssertion()
+    @Test fun test88() = someAssertion()
+    @Test fun test89() = someAssertion()
+    @Test fun test90() = someAssertion()
+    @Test fun test91() = someAssertion()
+    @Test fun test92() = someAssertion()
+    @Test fun test93() = someAssertion()
+    @Test fun test94() = someAssertion()
+    @Test fun test95() = someAssertion()
+    @Test fun test96() = someAssertion()
+    @Test fun test97() = someAssertion()
+    @Test fun test98() = someAssertion()
+    @Test fun test99() = someAssertion()
+    @Test fun test100() = someAssertion()
+
+    private fun someAssertion() {
+        assertEquals(1, 1)
+        Thread.sleep(50)
+    }
 }
