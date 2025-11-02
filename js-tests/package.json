@@ -1,0 +1,12 @@
+{
+  "name": "js-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple JavaScript test project with 100 passing Jest tests",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
